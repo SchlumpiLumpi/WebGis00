@@ -1,0 +1,58 @@
+{
+"Station1": 
+{
+    "station_name":"Carlsfeld",
+    "station_code":"DESN049",
+    "station_type":"background",
+    "location":
+    {
+        "state":"Sachsen",
+        "enviroment":"remote"
+    },
+    "annual_mean (mue_gramm/m³)":[6,8],
+    "number of daily values above 50[mue_gramm/m³]":0
+},
+"Station2": 
+{
+    "station_name":"Neuhaus",
+    "station_code":"DETH027",
+    "station_type":"background",
+    "location":
+    {
+        "state":"Thüringen",
+        "enviroment":"remote"
+    },
+    "annual_mean (mue_gramm/m³)":[7,6],
+    "number of daily values above 50[mue_gramm/m³]":0
+},
+"Station3": 
+{
+    "station_name":"Possen",
+    "station_code":"DETH042",
+    "station_type":"background",
+    "location":
+    {
+        "state":"Sachsen",
+        "enviroment":"remote"
+    },
+    "annual_mean (mue_gramm/m³)":[9,2],
+    "number of daily values above 50[mue_gramm/m³]":0
+},
+"Station4": 
+{
+    "station_name":"Hummelshain",
+    "station_code":"DETH061",
+    "station_type":"background",
+    "location":
+    {
+        "state":"Sachsen",
+        "enviroment":"remote"
+    },
+    "annual_mean (mue_gramm/m³)":[9,7],
+    "number of daily values above 50[mue_gramm/m³]":0
+}
+}
+
+
+
+

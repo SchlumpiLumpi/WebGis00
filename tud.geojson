@@ -1,0 +1,18 @@
+
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.726667,51.028056]
+    },
+    "properties": {
+        "name":"TU Dresden",
+        "location": {
+            "nation":"Germany",
+            "state":"Saxony",
+            "city":"Dresden"
+        },
+        "number of Students":29000,
+        "website":"tu-dresden.de"
+    }
+}
