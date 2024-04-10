@@ -7,11 +7,9 @@
     },
     "properties": {
         "name":"TU Dresden",
-        "location": {
-            "nation":"Germany",
-            "state":"Saxony",
-            "city":"Dresden"
-        },
+        "nation":"Germany",
+        "state":"Saxony",
+        "city":"Dresden",
         "number of Students":29000,
         "website":"tu-dresden.de"
     }
