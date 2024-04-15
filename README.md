@@ -6,4 +6,4 @@ zu Aufgabe 2: Die Datei tud.geojson enthält die Geometrie (Punkt),Lageinformati
 
 Beide Dateien wurden in VisualStudio erstellt und validiert durch jsonlint.com und geojsonlint.com
 
-Hier eine Test-änderung.
+Hier eine Test-änderung. Ich füge eine neue Änderung hinzu.
